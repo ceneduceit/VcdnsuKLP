@@ -8,8 +8,6 @@ permissions:
   contents: read
 
 jobs:
-  build:
-    name: Changelog Entry Check
 
     runs-on: ubuntu-latest
 
